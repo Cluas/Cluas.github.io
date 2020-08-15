@@ -1,1 +1,7 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cluas's blog on Cluas's blog</title><link>https://cluas.me/</link><description>Recent content in Cluas's blog on Cluas's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 15 Aug 2020 00:04:33 +0800</lastBuildDate><atom:link href="https://cluas.me/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>https://cluas.me/posts/</link><pubDate>Sat, 15 Aug 2020 00:04:33 +0800</pubDate><guid>https://cluas.me/posts/</guid><description/></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cluas's blog on Cluas's blog</title><link>https://cluas.me/</link><description>Recent content in Cluas's blog on Cluas's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 15 Aug 2020 00:04:33 +0800</lastBuildDate><atom:link href="https://cluas.me/" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://cluas.me/about/</link><pubDate>Sat, 15 Aug 2020 00:04:33 +0800</pubDate><guid>https://cluas.me/about/</guid><description>&lt;p>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;h3 id="hello-im-cluas-">Hello, I&amp;rsquo;m Cluas 👋&lt;/h3>
+&lt;p>🌱 I’m currently learning algorithm.&lt;/p>
+&lt;ul>
+&lt;li>个人网站: &lt;a href="https://cluas.me">https://cluas.me&lt;/a>&lt;/li>
+&lt;li>开源项目: &lt;a href="https://github.com/Cluas/go-alipay">支付宝小程序go sdk&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Posts</title><link>https://cluas.me/posts/</link><pubDate>Sat, 15 Aug 2020 00:04:33 +0800</pubDate><guid>https://cluas.me/posts/</guid><description/></item></channel></rss>
